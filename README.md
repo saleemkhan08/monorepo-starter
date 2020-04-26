@@ -1,4 +1,4 @@
-# Monorepo Starter for Expo (app) and react js (web) with a common(react-native-web)
+# Monorepo Starter for Expo (app) and react js (web) with a commonly shared code.
 
 Run `yarn install` in the root directory to install all the dependencies.
 
