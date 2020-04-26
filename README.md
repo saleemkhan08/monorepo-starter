@@ -1,19 +1,23 @@
 # Monorepo Starter for Expo (app) and react js (web) with a commonly shared code.
 
-Run `yarn install` in the root directory to install all the dependencies.
+Run `yarn install` in the root directory to install all the dependencies, also run `yarn install` in all the directories in side `packages` i.e. `app`, `web` and `common` to link them correctly.
 
-Run `yarn build:watch` in the packages/common directory and keep the `watch` running to monitor the changes in the common directory
+Run `yarn build:watch` in the packages/common directory and keep it in a separate terminalrunning to monitor the changes in the common directory
+
+Run `yarn build:watch` in the packages/common directory and keep it running to monitor the changes in the `common` directory
 
 `cd packages/common`
 `yarn build:watch`
 
-Run `yarn start` in `app` folder and keep it running in a separate terminal.<br />
+Run `yarn start` in `app` folder and keep it running in a separate terminal to monitor the changes in the `app` directory<br />
+
 Open `http://localhost:19002/` to run the app in respective devices or emulator.
 
 `cd packages/app`
 `yarn start`
 
-Run `yarn start` in `web` folder and keep it running in a separate terminal.<br />
+Run `yarn start` in `web` folder and keep it running in a separate terminal to monitor the changes in the `web` directory.<br />
+
 Open `http://localhost:3000/` to view the web app.
 
 `cd packages/web`
