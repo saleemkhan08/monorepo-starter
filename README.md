@@ -7,13 +7,13 @@ Run `yarn build:watch` in the packages/common directory and keep the `watch` run
 `cd packages/common`
 `yarn build:watch`
 
-Run `yarn start` in `app` folder and keep it running in a separate terminal.
+Run `yarn start` in `app` folder and keep it running in a separate terminal.<br />
 Open `http://localhost:19002/` to run the app in respective devices or emulator.
 
 `cd packages/app`
 `yarn start`
 
-Run `yarn start` in `web` folder and keep it running in a separate terminal.
+Run `yarn start` in `web` folder and keep it running in a separate terminal.<br />
 Open `http://localhost:3000/` to view the web app.
 
 `cd packages/web`
@@ -25,8 +25,9 @@ Happy code sharing :)
 
 Huge shout-out to https://github.com/benawad and https://github.com/DNature
 
-You can watch Ben's video tutorial in the following link :
-https://youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn
+You can watch Ben's video tutorial in the following link :<br />
+https://youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn<br />
+https://github.com/benawad/react-native-web-series/
 
-You can see DNature's repo on which this monorepo was built, in the following link :
+You can see DNature's repo on which this monorepo was built, in the following link :<br />
 https://github.com/DNature/expo-yarn-workspace-demo
