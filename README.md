@@ -23,7 +23,7 @@ Now you can add features in `common` and use it in `app` or/and `web`.
 
 Happy code sharing :)
 
-Huge shout out to https://github.com/benawad and https://github.com/DNature
+Huge shout-out to https://github.com/benawad and https://github.com/DNature
 
 You can watch Ben's video tutorial in the following link :
 https://youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn
